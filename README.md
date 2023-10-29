@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ziadmusa
-- ✨ I'm computer engineer.
-- 👀 I'm interested with programming using several languages.
-- 🌱 I’m interedted with learning CyberSecurity.
-- ✨Now I'm working on project of trancking antenna.
+- 👋 Hi, I’m Ziyad Mousa.
+- ✨ I'm a computer engineer.
+- 👀 I'm interested in programming using several languages.
+- 🌱 I’m interested in Embedded Systems.
 - 💞️ I am looking forward to collaborating with all of you.
 - 📫 How to reach me by:
 - Phone: +966563129767
